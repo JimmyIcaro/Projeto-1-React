@@ -1,7 +1,7 @@
 export default function App() {
   return (
     <div className="App">
-      <img src='../public/react.png'></img>
+      <img src='./react.png'></img>
       
       <h1>React</h1>
       
